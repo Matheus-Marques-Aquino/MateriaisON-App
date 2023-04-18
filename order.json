@@ -1,0 +1,87 @@
+{
+"_id":"Yq7BhvYAywuYmm5JC",
+"order":{
+	"orderId":2167,
+"status":1,
+"date":{
+"$date":"2020-06-26T21:02:15.541Z"
+},
+"userId":"iFRGSjuaCRFqDF3m7",
+"vendorId":"13",
+"vendor_id":"5wnr7YTJt3Do4oFzf",
+"products":[
+{
+"id":2319,
+"date_created":"2020-03-11T09:00:49",
+"date_created_gmt":"2020-03-11T15:00:49",
+"date_modified":"2020-03-11T09:00:49",
+"date_modified_gmt":"2020-03-11T15:00:49",
+"src":"https://construcao.materiaison.com.br/wp-content/uploads/2020/03/vZNEerfF7z6.png",
+"name":"vZNEerfF7z6.png","alt":"","position":0
+}
+],
+"name":"Lixeira Redonda Com Pedal 5L Aquaplás",
+"description":"Lixeira redonda com pedal e capacidade de 5 litros da Aquaplas BR\n",
+"price":"213.03",
+"category":
+[
+{
+"id":65,
+"name":"Acessórios para Banheiro",
+"slug":"acessorios-para-banheiro"
+}
+,"quantity":5
+}
+],
+"delivery":
+{
+"name":"Correios PAC:",
+"price":116,
+"index":1,
+"box":
+{
+"w":50,
+"h":60,
+"d":50,
+"wg":2.9,
+"error":false
+},
+"trackingCode":""
+},
+"payment":
+{
+"cardFlag":"MASTERCARD",
+"cardDigits":"8829"
+},
+"address":{
+"name":"Matheus Marques de Aquino",
+"address":
+{
+"numero":"91",
+"rua":"Rua Coronel Camisão",
+"bairro":"Osvaldo Cruz",
+"cidade":"São Caetano do Sul",
+"UF":"SP",
+"pais":"Brasil",
+"cep":"09571-020",
+"complemento":"casa",
+"celular":"11979544109"
+},
+"coords":
+{
+"selected":
+{
+"lat":-23.6307805,
+"lng":-46.5669457
+},
+"address":
+{
+"lat":-23.6307805,
+"lng":-46.5669457
+}
+}
+},
+"email":"matheusm.aquino@yahoo.com.br",
+"price":1181.15
+}
+}

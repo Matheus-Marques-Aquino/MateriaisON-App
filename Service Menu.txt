@@ -1,0 +1,35 @@
+	    <div style={{height:'40px', paddingLeft:'10px', fontWeight:'bold', borderBottom:'1px solid #CCC', lineHeight:'40px', backgroundColor:'#F7F7F7'}}>
+                • Prestador de serviço
+            </div>
+            <div>
+                <div style={{height:'40px', paddingLeft:'20px', borderBottom:'1px solid #FFDBBF', lineHeight:'40px', animation:'blinker 1.8s infinite', cursor:'pointer'}} onClick={()=>{history.push('/documentos-do-prestador-de-servico')}}>  
+                    <div style={{opacity:'1.0'}}>
+                        Documentação
+                    </div>
+                </div>
+                <div style={{height:'40px', paddingLeft:'20px', borderBottom:'1px solid #FFDBBF', lineHeight:'40px', cursor:'pointer'}} onClick={()=>{history.push('/perfil-do-prestador-de-servico')}}>  
+                    Editar Perfil
+                </div>
+                <div style={{height:'40px', paddingLeft:'20px', borderBottom:'1px solid #FFDBBF', lineHeight:'40px', cursor:'pointer'}} onClick={()=>{history.push('/dados-bancarios-do-prestador-de-servico')}}>
+                    Dados bancários
+                </div>
+                <div style={{height:'40px', paddingLeft:'20px', borderBottom:'1px solid #CCC', lineHeight:'40px', cursor:'pointer'}} onClick={()=>{history.push('/endereco-do-prestador-de-servico')}}>
+                    Endereço comercial
+                </div>
+            </div>
+            <div style={{height:'40px', paddingLeft:'10px', fontWeight:'bold', borderBottom:'1px solid #CCC', lineHeight:'40px', backgroundColor:'#F7F7F7'}}>
+                Serviços
+            </div>
+            <div>
+                <div style={{height:'40px', paddingLeft:'20px', borderBottom:'1px solid #FFDBBF', lineHeight:'40px', cursor:'pointer'}} onClick={()=>{}}> 
+                    Gerenciar serviços
+                </div>
+            </div>
+            <div style={{height:'40px', paddingLeft:'10px', fontWeight:'bold', borderBottom:'1px solid #CCC', lineHeight:'40px', backgroundColor:'#F7F7F7', cursor:'pointer'}}>
+                • Contato
+            </div>
+            <div>
+                <div style={{height:'40px', paddingLeft:'20px', borderBottom:'1px solid #CCC', lineHeight:'40px', cursor:'pointer'}} onClick={()=>{history.push('/contato')}}>
+                    Fale Conosco
+                </div>
+            </div>

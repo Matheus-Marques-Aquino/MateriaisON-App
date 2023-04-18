@@ -1,0 +1,10 @@
+
+{
+    "galaxy.meteor.com": {
+       "env": {
+         "MAIL_URL": "smtps://AKIAS5AE4XHRZN7R3K5I:BOY5Wu6YbUbfJpfXKBRYUtpw1dGiJPTO7L5iKkkxyPXJ@email-smtp.us-east-1.amazonaws.com:465",
+         "ROOT_URL": "http://materiaison.meteorapp.com:80",
+         "MONGO_URL": "mongodb+srv://matheus:Mk!190119@cluster0-3o8rl.mongodb.net/mainDatabase?retryWrites=true&w=majority"          
+        }
+     }
+  }

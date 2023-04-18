@@ -1,0 +1,8 @@
+-Botão para abrir loja
+-Aguade enquanto verifcamos seus dados.
+-Autenticação pelo servidor
+-chat
+-botão de disponivel e indisponivel para sumir da plataforma
+-descirção para apresentação
+-redirecionar pra terminar cadastro
+-jogar botão de salvar para baixo
